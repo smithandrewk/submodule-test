@@ -1,0 +1,3 @@
+[submodule "delta"]
+	path = delta
+	url = git@github.com:smithandrewk/delta-dataset.git
